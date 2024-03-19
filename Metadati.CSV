@@ -1,0 +1,12 @@
+Colonne;Descrizione
+Nome album;Nome dell'album della canzone
+Nome artista;Nome dell'artista che ha scritto la canzone
+Durata;Durata in formato numero ma calcolata in secondi
+Genere;Genere della canzone
+Ballabilità;La ballabilità descrive quanto una traccia sia adatta per ballare. Questo parametro viene dato in base a una combinazione di elementi tra cui tempo, stabilità del ritmo, forza del battito e regolarità complessiva. Un valore pari a 0 è meno ballabile e 1 è più ballabile
+Energia;È un valore tra 0 e 1 e rappresenta una misura percettiva dell'intensità e attività della traccia. Tipicamente le tracce energetiche sembrano veloci, rumorose e chiassose. Per esempio, il death metal ha un'energia alta, mentre un preludio di Bach registra un punteggio basso sulla scala di valori. Le caratteristiche percettive che contribuiscono a questo parametro sono l'intervallo dinamico, volume percepito, timbro, n° di iniziazioni di suoni ed entropia generale
+Chiave;La chiave nella quale la traccia viene suonata. I numeri interi sono associati alle altezze usando la notazione standard delle classi di altezza. Ad esempio, 0 = Do, 1 = Do?/Re?, 2 = Re, e così via. Se non è stata rilevata alcuna chiave, il valore è -1.
+Tono;Il tono indica la modalità (maggiore o minore) di una traccia. È il tipo di scala dalla quale deriva il suo contenuto melodico. Maggiore è rappresentato da 1 e minore è 0
+Acusticità o carattere acustico;"Indica l'intensità della canzone. Si riferisce alla misura di quanto una traccia musicale è caratterizzata da suoni acustici, ossia suoni generati da strumenti reali anziché da strumenti elettronici o sintetizzatori. Un valore alto di ""acousticness"" indica una maggiore presenza di suoni acustici nella traccia, mentre un valore basso indica una maggiore presenza di suoni elettronici o sintetizzati."
+Valenza;Descrive la positività trasmessa da una traccia. Tracce con un suono ad alto valore sembrano più positive (felice, allegro, euforico), mentre tracce con basso valore sembrano più negative (tristi, deprimenti, rabbiose)
+Tempo;La misura complessiva del tempo di una traccia in battiti al minuto (BPM). Nella terminologia musicale, il tempo è la velocità o l'andatura di un dato pezzo e deriva direttamente dalla durata media del battito
