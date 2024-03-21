@@ -1,14 +1,14 @@
 Caratteristica canzoni;Spiegazione valore;Valore;Canzoni Esempio;Autori Esempio;Esempi immagini
-Ballabilit√†;Valore basso;0,28;Hallelujah;Leonard Cohen;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593598811l/54348080._SX318_.jpg
-Ballabilit√†;Valore alto;0,932;Billie Jean;Michael Jackson;https://tse1.mm.bing.net/th?id=OIP.SKYVvvL3HF0QMauZ-UWB-wHaHX&pid=Api
+Ballabilit‡;Valore basso;0,28;Hallelujah;Leonard Cohen;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593598811l/54348080._SX318_.jpg
+Ballabilit‡;Valore alto;0,932;Billie Jean;Michael Jackson;https://tse1.mm.bing.net/th?id=OIP.SKYVvvL3HF0QMauZ-UWB-wHaHX&pid=Api
 Energia;Valore basso;0,11;Preludio in C maggiore;Johann Sebastian Bach;https://tse1.mm.bing.net/th?id=OIP.xaW-6z2tUL7mYp8QvPjorwAAAA&pid=Api
 Energia;Valore alto;0,927;Can't Hold Us;Macklemore & Ryan Lewis ft. Ray Dalton;https://tse3.mm.bing.net/th?id=OIP.vXKN3Gd9IJh9jShoz2IxCQHaEK&pid=Api
 Chiave;Valore basso;0;Imagine;John Lennon;https://tse1.mm.bing.net/th?id=OIP.2Xq79spKtODJ9NpIuQDZmgHaHa&pid=Api
 Chiave;Valore medio-basso;4;Bohemian Rapsody;Queen;https://tse2.mm.bing.net/th?id=OIP.l3GLc98EgYTyCoa8zcLqsgHaHa&pid=Api
 Chiave;Valore medio-alto;7;Livin' on a prayer;Bon Jovi;https://img.discogs.com/oj2RnDxuv55HSUTkZLy0u5EFp48=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5255609-1453850291-7803.jpeg.jpg
 Chiave;Valore alto;11;Smooth Criminal;Michael Jackson;https://tse4.mm.bing.net/th?id=OIP.oaLPH5lBQVogcueclx_7JAAAAA&pid=Api
-Acusticit√†;Valore basso;0,00146;Blinding Lights;The Weeknd;"https://open.spotify.com/embed/track/0VjIjW4GlUZAMYd2vXMi3b?utm_source=generator%22%20width=%22100%%22%20height=%22352%22%20frameBorder=%220%22%20allowfullscreen=%22%22%20allow=%22autoplay;%20clipboard-write;%20encrypted-media;%20fullscreen;%20picture-in-picture%22%20loading=%22lazy%22"
-Acusticit√†;Valore alto;0,702;Lost Cause;Billie Eilish;"https://open.spotify.com/embed/track/4191RXFPa7Ge9XkA4cWlna?utm_source=generator"" width=""100%"" height=""352"" frameBorder=""0"" allowfullscreen="""" allow=""autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"" loading=""lazy"""
+Acusticit‡;Valore basso;0,00146;Blinding Lights;The Weeknd;https://images.genius.com/041907158023c8cf8412aeec6591487e.1000x1000x1.jpg
+Acusticit‡;Valore alto;0,702;Lost Cause;Billie Eilish;https://www.radioclick.ro/wp-content/uploads/2021/06/billie-eilish-lost-cause-300x300.jpg
 Valenza;Valore basso;0,124;Fix You;Coldplay;https://tse3.mm.bing.net/th?id=OIP.tQ5nt5XOCK1js4KToyURmAHaHa&pid=Api
 Valenza;Valore alto;0,754;Dancing Queen;ABBA;https://tse4.mm.bing.net/th?id=OIP.xTz7-UgHv0SV859RFAKsGQHaFj&pid=Api
 Tempo;Valore basso;74.897;Let her go;Passenger;https://i.pinimg.com/originals/76/a8/77/76a87751b5f9e8db59f6285b55176de3.jpg
